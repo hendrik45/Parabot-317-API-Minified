@@ -145,7 +145,7 @@
         <site>
             <id>parabot-maven</id>
             <name>Frontend Parabot Maven</name>
-            <url>ftp://maven.parabot.org/docs/${artifactId}/</url>
+            <url>ftp://maven.parabot.org/docs/${project.artifactId}/</url>
         </site>
     </distributionManagement>
 
